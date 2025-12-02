@@ -1,0 +1,8 @@
+pytz
+gunicorn
+python-dotenv
+flask
+flask-cors
+google-generativeai
+requests
+pymongo
